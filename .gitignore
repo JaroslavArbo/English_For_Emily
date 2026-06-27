@@ -1,0 +1,14 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.ipa
+*.xcarchive
+
+# SwiftPM
+.build/
+
+# Local archives
+*.zip
